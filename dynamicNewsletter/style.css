@@ -1,0 +1,4 @@
+div[data-testid="stExpander"] details summary p{
+    font-size: 2rem;
+}
+

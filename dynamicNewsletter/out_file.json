@@ -1,0 +1,1574 @@
+{
+    "body": {
+        "content": [
+            {
+                "endIndex": 1,
+                "sectionBreak": {
+                    "sectionStyle": {
+                        "columnSeparatorStyle": "NONE",
+                        "contentDirection": "LEFT_TO_RIGHT",
+                        "sectionType": "CONTINUOUS"
+                    }
+                }
+            },
+            {
+                "endIndex": 12,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 12,
+                            "startIndex": 1,
+                            "textRun": {
+                                "content": "Athletics:\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "headingId": "h.qmv3gpo4m9pq",
+                        "namedStyleType": "HEADING_2"
+                    }
+                },
+                "startIndex": 1
+            },
+            {
+                "endIndex": 138,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 138,
+                            "startIndex": 12,
+                            "textRun": {
+                                "content": "Please be sure to check the transportation lists as Hotchkiss facilities are not available Monday and Tuesday to court teams:\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "red": 0.4
+                                            }
+                                        }
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 12
+            },
+            {
+                "endIndex": 165,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 164,
+                            "startIndex": 138,
+                            "textRun": {
+                                "content": "Athletics Week at a Glance",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "link": {
+                                        "url": "https://docs.google.com/spreadsheets/d/1wvDCrPGMDoMEOtIb61wsSHKMu6hWkXbECXhiuiNU50g/edit#gid=0"
+                                    },
+                                    "underline": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 165,
+                            "startIndex": 164,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "link": {
+                                        "url": "https://docs.google.com/document/d/1UgnGHykhEUb_OoNEbV9Sk4Or8HR3eDyq9Ftvx6uf5gw/edit"
+                                    },
+                                    "underline": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 138
+            },
+            {
+                "endIndex": 180,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 179,
+                            "startIndex": 165,
+                            "textRun": {
+                                "content": "Transportation",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "link": {
+                                        "url": "https://docs.google.com/document/d/1UgnGHykhEUb_OoNEbV9Sk4Or8HR3eDyq9Ftvx6uf5gw/edit"
+                                    },
+                                    "underline": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 180,
+                            "startIndex": 179,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "underline": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 165
+            },
+            {
+                "endIndex": 181,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 181,
+                            "startIndex": 180,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "red": 0.4
+                                            }
+                                        }
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 180
+            },
+            {
+                "endIndex": 206,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 206,
+                            "startIndex": 181,
+                            "textRun": {
+                                "content": "School Placement Office:\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "headingId": "h.oejmipkdfqia",
+                        "namedStyleType": "HEADING_2"
+                    }
+                },
+                "startIndex": 181
+            },
+            {
+                "endIndex": 310,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 310,
+                            "startIndex": 206,
+                            "textRun": {
+                                "content": "Please check emails for edits on your recs and notify Lisa or Emily once you have approved any changes.\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "red": 0.4
+                                            }
+                                        }
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 206
+            },
+            {
+                "endIndex": 385,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 385,
+                            "startIndex": 310,
+                            "textRun": {
+                                "content": "If you have not submitted your recs, please contact Lisa with a plan ASAP.\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "red": 0.4
+                                            }
+                                        }
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 310
+            },
+            {
+                "endIndex": 386,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 386,
+                            "startIndex": 385,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "red": 0.4
+                                            }
+                                        }
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 385
+            },
+            {
+                "endIndex": 416,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 416,
+                            "startIndex": 386,
+                            "textRun": {
+                                "content": "Student and Residential Life:\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "headingId": "h.3h9kktko3gxg",
+                        "namedStyleType": "HEADING_2"
+                    }
+                },
+                "startIndex": 386
+            },
+            {
+                "endIndex": 489,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 489,
+                            "startIndex": 416,
+                            "textRun": {
+                                "content": "Reminder to be present and accountable during your new duty assignments.\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "red": 0.4
+                                            }
+                                        }
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 416
+            },
+            {
+                "endIndex": 507,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 506,
+                            "startIndex": 489,
+                            "textRun": {
+                                "content": "Winter Daily Duty",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "link": {
+                                        "url": "https://docs.google.com/spreadsheets/d/1Xj6_zQhuFZeLOOEZh26PNNuxdyk5AyPKKxQksr01-0A/edit#gid=614315869"
+                                    },
+                                    "underline": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 507,
+                            "startIndex": 506,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "underline": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 489
+            },
+            {
+                "endIndex": 508,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 508,
+                            "startIndex": 507,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "red": 0.4
+                                            }
+                                        }
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 507
+            },
+            {
+                "endIndex": 631,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 631,
+                            "startIndex": 508,
+                            "textRun": {
+                                "content": "Student travel information will be sent soon via email for closing duty faculty. Please highlight students as they depart.\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "red": 0.4
+                                            }
+                                        }
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 508
+            },
+            {
+                "endIndex": 632,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 632,
+                            "startIndex": 631,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "red": 0.4
+                                            }
+                                        }
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 631
+            },
+            {
+                "endIndex": 643,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 641,
+                            "startIndex": 632,
+                            "textRun": {
+                                "content": "Academics",
+                                "textStyle": {}
+                            }
+                        },
+                        {
+                            "endIndex": 643,
+                            "startIndex": 641,
+                            "textRun": {
+                                "content": ":\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "headingId": "h.usyp3lwjbhxg",
+                        "namedStyleType": "HEADING_2"
+                    }
+                },
+                "startIndex": 632
+            },
+            {
+                "endIndex": 648,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 648,
+                            "startIndex": 643,
+                            "textRun": {
+                                "content": "test\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 643
+            },
+            {
+                "endIndex": 650,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 650,
+                            "startIndex": 648,
+                            "textRun": {
+                                "content": "\u2026\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "red": 0.4
+                                            }
+                                        }
+                                    },
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Times New Roman",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 648
+            },
+            {
+                "endIndex": 651,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 651,
+                            "startIndex": 650,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "bold": true,
+                                    "underline": true,
+                                    "weightedFontFamily": {
+                                        "fontFamily": "Georgia",
+                                        "weight": 400
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 650
+            },
+            {
+                "endIndex": 652,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 652,
+                            "startIndex": 651,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "bold": true
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT"
+                    }
+                },
+                "startIndex": 651
+            }
+        ]
+    },
+    "documentId": "1oEEf-uRK7eQyb6YL5_xNEXgKGKGOgMZlyXBLrBwhzlM",
+    "documentStyle": {
+        "background": {
+            "color": {}
+        },
+        "marginBottom": {
+            "magnitude": 72,
+            "unit": "PT"
+        },
+        "marginFooter": {
+            "magnitude": 36,
+            "unit": "PT"
+        },
+        "marginHeader": {
+            "magnitude": 36,
+            "unit": "PT"
+        },
+        "marginLeft": {
+            "magnitude": 72,
+            "unit": "PT"
+        },
+        "marginRight": {
+            "magnitude": 72,
+            "unit": "PT"
+        },
+        "marginTop": {
+            "magnitude": 72,
+            "unit": "PT"
+        },
+        "pageNumberStart": 1,
+        "pageSize": {
+            "height": {
+                "magnitude": 792,
+                "unit": "PT"
+            },
+            "width": {
+                "magnitude": 612,
+                "unit": "PT"
+            }
+        },
+        "useCustomHeaderFooterMargins": true
+    },
+    "lists": {
+        "kix.8p82gdxv8myv": {
+            "listProperties": {
+                "nestingLevels": [
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%0.",
+                        "glyphType": "DECIMAL",
+                        "indentFirstLine": {
+                            "magnitude": 18,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 36,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%1.",
+                        "glyphType": "ALPHA",
+                        "indentFirstLine": {
+                            "magnitude": 54,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 72,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "END",
+                        "glyphFormat": "%2.",
+                        "glyphType": "ROMAN",
+                        "indentFirstLine": {
+                            "magnitude": 90,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 108,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%3.",
+                        "glyphType": "DECIMAL",
+                        "indentFirstLine": {
+                            "magnitude": 126,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 144,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%4.",
+                        "glyphType": "ALPHA",
+                        "indentFirstLine": {
+                            "magnitude": 162,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 180,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "END",
+                        "glyphFormat": "%5.",
+                        "glyphType": "ROMAN",
+                        "indentFirstLine": {
+                            "magnitude": 198,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 216,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%6.",
+                        "glyphType": "DECIMAL",
+                        "indentFirstLine": {
+                            "magnitude": 234,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 252,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%7.",
+                        "glyphType": "ALPHA",
+                        "indentFirstLine": {
+                            "magnitude": 270,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 288,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "END",
+                        "glyphFormat": "%8.",
+                        "glyphType": "ROMAN",
+                        "indentFirstLine": {
+                            "magnitude": 306,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 324,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    }
+                ]
+            }
+        },
+        "kix.szq3et2tn07l": {
+            "listProperties": {
+                "nestingLevels": [
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%0.",
+                        "glyphType": "DECIMAL",
+                        "indentFirstLine": {
+                            "magnitude": 18,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 36,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%1.",
+                        "glyphType": "ALPHA",
+                        "indentFirstLine": {
+                            "magnitude": 54,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 72,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "END",
+                        "glyphFormat": "%2.",
+                        "glyphType": "ROMAN",
+                        "indentFirstLine": {
+                            "magnitude": 90,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 108,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%3.",
+                        "glyphType": "DECIMAL",
+                        "indentFirstLine": {
+                            "magnitude": 126,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 144,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%4.",
+                        "glyphType": "ALPHA",
+                        "indentFirstLine": {
+                            "magnitude": 162,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 180,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "END",
+                        "glyphFormat": "%5.",
+                        "glyphType": "ROMAN",
+                        "indentFirstLine": {
+                            "magnitude": 198,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 216,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%6.",
+                        "glyphType": "DECIMAL",
+                        "indentFirstLine": {
+                            "magnitude": 234,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 252,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%7.",
+                        "glyphType": "ALPHA",
+                        "indentFirstLine": {
+                            "magnitude": 270,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 288,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "END",
+                        "glyphFormat": "%8.",
+                        "glyphType": "ROMAN",
+                        "indentFirstLine": {
+                            "magnitude": 306,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 324,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    }
+                ]
+            }
+        },
+        "kix.x0njbale0eu2": {
+            "listProperties": {
+                "nestingLevels": [
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%0",
+                        "glyphSymbol": "\u25cf",
+                        "indentFirstLine": {
+                            "magnitude": 18,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 36,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%1",
+                        "glyphSymbol": "\u25cb",
+                        "indentFirstLine": {
+                            "magnitude": 54,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 72,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%2",
+                        "glyphSymbol": "\u25a0",
+                        "indentFirstLine": {
+                            "magnitude": 90,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 108,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%3",
+                        "glyphSymbol": "\u25cf",
+                        "indentFirstLine": {
+                            "magnitude": 126,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 144,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%4",
+                        "glyphSymbol": "\u25cb",
+                        "indentFirstLine": {
+                            "magnitude": 162,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 180,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%5",
+                        "glyphSymbol": "\u25a0",
+                        "indentFirstLine": {
+                            "magnitude": 198,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 216,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%6",
+                        "glyphSymbol": "\u25cf",
+                        "indentFirstLine": {
+                            "magnitude": 234,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 252,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%7",
+                        "glyphSymbol": "\u25cb",
+                        "indentFirstLine": {
+                            "magnitude": 270,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 288,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    },
+                    {
+                        "bulletAlignment": "START",
+                        "glyphFormat": "%8",
+                        "glyphSymbol": "\u25a0",
+                        "indentFirstLine": {
+                            "magnitude": 306,
+                            "unit": "PT"
+                        },
+                        "indentStart": {
+                            "magnitude": 324,
+                            "unit": "PT"
+                        },
+                        "startNumber": 1,
+                        "textStyle": {
+                            "underline": false
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "namedStyles": {
+        "styles": [
+            {
+                "namedStyleType": "NORMAL_TEXT",
+                "paragraphStyle": {
+                    "alignment": "START",
+                    "avoidWidowAndOrphan": true,
+                    "borderBetween": {
+                        "color": {},
+                        "dashStyle": "SOLID",
+                        "padding": {
+                            "unit": "PT"
+                        },
+                        "width": {
+                            "unit": "PT"
+                        }
+                    },
+                    "borderBottom": {
+                        "color": {},
+                        "dashStyle": "SOLID",
+                        "padding": {
+                            "unit": "PT"
+                        },
+                        "width": {
+                            "unit": "PT"
+                        }
+                    },
+                    "borderLeft": {
+                        "color": {},
+                        "dashStyle": "SOLID",
+                        "padding": {
+                            "unit": "PT"
+                        },
+                        "width": {
+                            "unit": "PT"
+                        }
+                    },
+                    "borderRight": {
+                        "color": {},
+                        "dashStyle": "SOLID",
+                        "padding": {
+                            "unit": "PT"
+                        },
+                        "width": {
+                            "unit": "PT"
+                        }
+                    },
+                    "borderTop": {
+                        "color": {},
+                        "dashStyle": "SOLID",
+                        "padding": {
+                            "unit": "PT"
+                        },
+                        "width": {
+                            "unit": "PT"
+                        }
+                    },
+                    "direction": "LEFT_TO_RIGHT",
+                    "indentEnd": {
+                        "unit": "PT"
+                    },
+                    "indentFirstLine": {
+                        "unit": "PT"
+                    },
+                    "indentStart": {
+                        "unit": "PT"
+                    },
+                    "keepLinesTogether": false,
+                    "keepWithNext": false,
+                    "lineSpacing": 115,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "pageBreakBefore": false,
+                    "shading": {
+                        "backgroundColor": {}
+                    },
+                    "spaceAbove": {
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "unit": "PT"
+                    },
+                    "spacingMode": "COLLAPSE_LISTS"
+                },
+                "textStyle": {
+                    "backgroundColor": {},
+                    "baselineOffset": "NONE",
+                    "bold": false,
+                    "fontSize": {
+                        "magnitude": 11,
+                        "unit": "PT"
+                    },
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {}
+                        }
+                    },
+                    "italic": false,
+                    "smallCaps": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "weightedFontFamily": {
+                        "fontFamily": "Arial",
+                        "weight": 400
+                    }
+                }
+            },
+            {
+                "namedStyleType": "HEADING_1",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "pageBreakBefore": false,
+                    "spaceAbove": {
+                        "magnitude": 20,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 6,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": {
+                        "magnitude": 20,
+                        "unit": "PT"
+                    }
+                }
+            },
+            {
+                "namedStyleType": "HEADING_2",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "pageBreakBefore": false,
+                    "spaceAbove": {
+                        "magnitude": 18,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 6,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "bold": false,
+                    "fontSize": {
+                        "magnitude": 16,
+                        "unit": "PT"
+                    }
+                }
+            },
+            {
+                "namedStyleType": "HEADING_3",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "pageBreakBefore": false,
+                    "spaceAbove": {
+                        "magnitude": 16,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 4,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "bold": false,
+                    "fontSize": {
+                        "magnitude": 14,
+                        "unit": "PT"
+                    },
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {
+                                "blue": 0.2627451,
+                                "green": 0.2627451,
+                                "red": 0.2627451
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "namedStyleType": "HEADING_4",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "pageBreakBefore": false,
+                    "spaceAbove": {
+                        "magnitude": 14,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 4,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                    },
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {
+                                "blue": 0.4,
+                                "green": 0.4,
+                                "red": 0.4
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "namedStyleType": "HEADING_5",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "pageBreakBefore": false,
+                    "spaceAbove": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 4,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": {
+                        "magnitude": 11,
+                        "unit": "PT"
+                    },
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {
+                                "blue": 0.4,
+                                "green": 0.4,
+                                "red": 0.4
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "namedStyleType": "HEADING_6",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "pageBreakBefore": false,
+                    "spaceAbove": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 4,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": {
+                        "magnitude": 11,
+                        "unit": "PT"
+                    },
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {
+                                "blue": 0.4,
+                                "green": 0.4,
+                                "red": 0.4
+                            }
+                        }
+                    },
+                    "italic": true
+                }
+            },
+            {
+                "namedStyleType": "TITLE",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "pageBreakBefore": false,
+                    "spaceAbove": {
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 3,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": {
+                        "magnitude": 26,
+                        "unit": "PT"
+                    }
+                }
+            },
+            {
+                "namedStyleType": "SUBTITLE",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "pageBreakBefore": false,
+                    "spaceAbove": {
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 16,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": {
+                        "magnitude": 15,
+                        "unit": "PT"
+                    },
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {
+                                "blue": 0.4,
+                                "green": 0.4,
+                                "red": 0.4
+                            }
+                        }
+                    },
+                    "italic": false,
+                    "weightedFontFamily": {
+                        "fontFamily": "Arial",
+                        "weight": 400
+                    }
+                }
+            }
+        ]
+    },
+    "revisionId": "ALBJ4LsMTxrLo7_vaddJlIWg4TCN5c07IM87UByztRwJJwZ9DI8dScDEXE-QoMnlV-r6OR_UWPACarv94zDKhg",
+    "suggestionsViewMode": "SUGGESTIONS_INLINE",
+    "title": "Testing Google API"
+}
